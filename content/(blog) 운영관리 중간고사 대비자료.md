@@ -37,3 +37,7 @@ CR규칙과 긴급률
 ![[Pasted image 20251019230306.png]]
 ![[Pasted image 20251019230333.png]]
 
+
+---
+기출에서 제일 어려웠던 문제
+![[Pasted image 20251020150507.png]]![[Pasted image 20251020150630.png]]
